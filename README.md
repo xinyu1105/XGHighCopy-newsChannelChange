@@ -11,4 +11,4 @@
 
 2017.4.14 对栏目切换中第二组移动时出现的BUG进行修复
 
-![Alt text](https://github.com/xinyu1105/XGHighCopy-newsChannelChange/raw/master/image/1.jpg)
+![Alt text](https://github.com/xinyu1105/XGHighCopy-newsChannelChange/raw/master/高仿网易新闻切换栏目及星级评分.gif)
